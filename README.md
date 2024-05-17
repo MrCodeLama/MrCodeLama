@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrCodeLama.MrCodeLama" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&color=FF00A0&center=true&vCenter=true&random=false&width=435&lines=Hello)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&color=FF00A0&center=true&vCenter=true&random=false&width=435&lines=Hello)" />
 </h1>
 
 <h3 align="center">A passionate software developer from Ukraine</h3>
@@ -53,7 +53,7 @@
 
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&color=FF00A0&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&color=FF00A0&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting)" />
 </h1>
 
 <br/>
